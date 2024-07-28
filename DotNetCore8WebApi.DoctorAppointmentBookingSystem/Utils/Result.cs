@@ -1,4 +1,4 @@
-﻿namespace DotNetCore8WebApi.DoctorAppointmentBookingSystem.Models;
+﻿namespace DotNetCore8WebApi.DoctorAppointmentBookingSystem.Utils;
 
 public class Result<T>
 {

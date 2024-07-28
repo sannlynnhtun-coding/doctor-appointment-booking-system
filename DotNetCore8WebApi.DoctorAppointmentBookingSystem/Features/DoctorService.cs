@@ -1,5 +1,5 @@
 ﻿using DotNetCore8WebApi.DoctorAppointmentBookingSystem.Dtos;
-using DotNetCore8WebApi.DoctorAppointmentBookingSystem.Models;
+using DotNetCore8WebApi.DoctorAppointmentBookingSystem.Utils;
 
 namespace DotNetCore8WebApi.DoctorAppointmentBookingSystem.Features
 {

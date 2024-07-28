@@ -417,9 +417,7 @@ namespace DotNetCore8WebApi.DoctorAppointmentBookingSystem.Controllers
 
 #### PatientsController
 
-```
-
-csharp
+```csharp
 using Microsoft.AspNetCore.Mvc;
 using DotNetCore8WebApi.DoctorAppointmentBookingSystem.DTOs;
 using DotNetCore8WebApi.DoctorAppointmentBookingSystem.Services;

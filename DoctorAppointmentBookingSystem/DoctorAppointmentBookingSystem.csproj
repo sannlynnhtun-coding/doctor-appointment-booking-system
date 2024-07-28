@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DotNetCore8WebApi.DoctorAppointmentBookingSystem.Database\DoctorAppointmentBookingSystem.Database.csproj" />
+    <ProjectReference Include="..\DoctorAppointmentBookingSystem.Database\DoctorAppointmentBookingSystem.Database.csproj" />
   </ItemGroup>
 
 </Project>
